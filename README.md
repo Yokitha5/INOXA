@@ -30,6 +30,5 @@ The dashboard provides live energy tracking, device monitoring, automation sched
 - HTML
 - CSS
 - JavaScript
-- Google Fonts
-
+  
 ---
